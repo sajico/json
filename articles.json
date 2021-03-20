@@ -1,0 +1,94 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "name": "post-1",
+            "author": {
+                "id": 1,
+                "name": "author-1"
+            },
+            "createdAt": "2021-03-21T16:10:51.147Z"
+        },
+        {
+            "id": 2,
+            "name": "post-2",
+            "author": {
+                "id": 2,
+                "name": "author-2"
+            },
+            "createdAt": "2021-03-22T16:10:51.147Z"
+        },
+        {
+            "id": 3,
+            "name": "post-3",
+            "author": {
+                "id": 3,
+                "name": "author-3"
+            },
+            "createdAt": "2021-03-23T16:10:51.147Z"
+        },
+        {
+            "id": 4,
+            "name": "post-4",
+            "author": {
+                "id": 4,
+                "name": "author-4"
+            },
+            "createdAt": "2021-03-24T16:10:51.147Z"
+        },
+        {
+            "id": 5,
+            "name": "post-5",
+            "author": {
+                "id": 5,
+                "name": "author-5"
+            },
+            "createdAt": "2021-03-25T16:10:51.147Z"
+        },
+        {
+            "id": 6,
+            "name": "post-6",
+            "author": {
+                "id": 6,
+                "name": "author-6"
+            },
+            "createdAt": "2021-03-26T16:10:51.147Z"
+        },
+        {
+            "id": 7,
+            "name": "post-7",
+            "author": {
+                "id": 7,
+                "name": "author-7"
+            },
+            "createdAt": "2021-03-27T16:10:51.147Z"
+        },
+        {
+            "id": 8,
+            "name": "post-8",
+            "author": {
+                "id": 8,
+                "name": "author-8"
+            },
+            "createdAt": "2021-03-28T16:10:51.147Z"
+        },
+        {
+            "id": 9,
+            "name": "post-9",
+            "author": {
+                "id": 9,
+                "name": "author-9"
+            },
+            "createdAt": "2021-03-29T16:10:51.147Z"
+        },
+        {
+            "id": 10,
+            "name": "post-10",
+            "author": {
+                "id": 10,
+                "name": "author-10"
+            },
+            "createdAt": "2021-03-30T16:10:51.147Z"
+        }
+    ]
+}
